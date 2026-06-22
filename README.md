@@ -11,3 +11,4 @@ To analyze customer demographic and behavioral data to identify the characterist
 - Purchase Rate by Age Group (Adult / Middle Age / Old)
 - Purchase Rate by Region (Europe, Pacific, North America)
 - Purchase Rate by Occupation and Education Level
+## Dasboard
