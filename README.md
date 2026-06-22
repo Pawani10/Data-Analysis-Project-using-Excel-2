@@ -14,3 +14,8 @@ To analyze customer demographic and behavioral data to identify the characterist
 ## Dasboard
 <a href="https://github.com/Pawani10/Data-Analysis-Project-using-Excel-2/blob/main/Screenshot%202026-06-23%20012138.png"> View </a>
 
+## Process
+- Data Collection — Dataset includes 1,000 customer records with attributes: Marital Status, Gender, Income, Children, Education, Occupation, Home Ownership, Number of Cars, Commute Distance, Region, and Age.
+- Data Cleaning — Removed duplicate entries, standardized abbreviations (M → Male/Female, M → Married), and handled any blank fields.
+- Data Processing — Created an Age Group column (Adult / Middle Age / Old) using nested IF formulas to enable age-bracket analysis. Built Pivot Tables across all key dimensions.
+- Analysis & Visualization — Compared purchase vs. non-purchase patterns across demographics using clustered bar charts and line graphs. Built a dashboard with slicers for Marital Status, Region, and Education.
