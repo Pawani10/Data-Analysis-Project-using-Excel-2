@@ -19,3 +19,13 @@ To analyze customer demographic and behavioral data to identify the characterist
 - Data Cleaning — Removed duplicate entries, standardized abbreviations (M → Male/Female, M → Married), and handled any blank fields.
 - Data Processing — Created an Age Group column (Adult / Middle Age / Old) using nested IF formulas to enable age-bracket analysis. Built Pivot Tables across all key dimensions.
 - Analysis & Visualization — Compared purchase vs. non-purchase patterns across demographics using clustered bar charts and line graphs. Built a dashboard with slicers for Marital Status, Region, and Education.
+<img width="1045" height="650" alt="Screenshot 2026-06-23 012138" src="https://github.com/user-attachments/assets/7c91ec23-16ab-43c6-b5d0-c1b132b7fb93" />
+
+## Key Insights
+
+- Middle-aged customers (31–54) have the highest bike purchase rate across all age groups; purchase intent drops noticeably among older customers.
+- Higher-income individuals are more likely to buy — male buyers average notably higher income than male non-buyers, and the same pattern holds for females, suggesting income is a strong purchase predictor.
+- Short commute distances (0–1 miles) drive the most purchases, followed by 1–2 miles, indicating bikes are primarily being bought for short-distance commuting or leisure — not long commutes.
+- Single customers show a slightly higher purchase tendency compared to married customers, possibly due to fewer financial dependencies.
+- Pacific region customers show a higher purchase rate compared to Europe, pointing to regional lifestyle or infrastructure differences that influence bike adoption.
+- Professionals and Skilled Manual workers are more represented among buyers than Clerical or Manual workers.
