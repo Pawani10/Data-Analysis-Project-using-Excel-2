@@ -12,3 +12,5 @@ To analyze customer demographic and behavioral data to identify the characterist
 - Purchase Rate by Region (Europe, Pacific, North America)
 - Purchase Rate by Occupation and Education Level
 ## Dasboard
+<a href="https://github.com/Pawani10/Data-Analysis-Project-using-Excel-2/blob/main/Screenshot%202026-06-23%20012138.png"> View </a>
+
